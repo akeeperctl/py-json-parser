@@ -1,0 +1,2357 @@
+<Speaker>
+  <DisplayName>Salma</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>سلمى</LocalName>
+  <Locale>ar-EG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-EG, SalmaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ar-EG-SalmaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Shakir</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>شاكر</LocalName>
+  <Locale>ar-EG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-EG, ShakirNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ar-EG-ShakirNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hoda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>هدى</LocalName>
+  <Locale>ar-EG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-EG, Hoda)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ar-EG-Hoda</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hamed</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>حامد</LocalName>
+  <Locale>ar-SA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-SA, HamedNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ar-SA-HamedNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Zariyah</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>زارية</LocalName>
+  <Locale>ar-SA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-SA, ZariyahNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ar-SA-ZariyahNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Naayf</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>نايف</LocalName>
+  <Locale>ar-SA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ar-SA, Naayf)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ar-SA-Naayf</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Borislav</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Борислав</LocalName>
+  <Locale>bg-BG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (bg-BG, BorislavNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>bg-BG-BorislavNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Kalina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Калина</LocalName>
+  <Locale>bg-BG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (bg-BG, KalinaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>bg-BG-KalinaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ivan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Иван</LocalName>
+  <Locale>bg-BG</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (bg-BG, Ivan)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>bg-BG-Ivan</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Joana</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Joana</LocalName>
+  <Locale>ca-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ca-ES, JoanaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ca-ES-JoanaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Alba</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Alba</LocalName>
+  <Locale>ca-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ca-ES, AlbaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ca-ES-AlbaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Enric</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Enric</LocalName>
+  <Locale>ca-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ca-ES, EnricNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ca-ES-EnricNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Herena</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Helena</LocalName>
+  <Locale>ca-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ca-ES, HerenaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ca-ES-HerenaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Antonin</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Antonín</LocalName>
+  <Locale>cs-CZ</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (cs-CZ, AntoninNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>cs-CZ-AntoninNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Vlasta</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Vlasta</LocalName>
+  <Locale>cs-CZ</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (cs-CZ, VlastaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>cs-CZ-VlastaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jakub</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jakub</LocalName>
+  <Locale>cs-CZ</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (cs-CZ, Jakub)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>cs-CZ-Jakub</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Christel</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Christel</LocalName>
+  <Locale>da-DK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (da-DK, ChristelNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>da-DK-ChristelNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jeppe</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jeppe</LocalName>
+  <Locale>da-DK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (da-DK, JeppeNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>da-DK-JeppeNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Helle</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Helle</LocalName>
+  <Locale>da-DK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (da-DK, HelleRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>da-DK-HelleRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ingrid</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Ingrid</LocalName>
+  <Locale>de-AT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-AT, IngridNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-AT-IngridNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jonas</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jonas</LocalName>
+  <Locale>de-AT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-AT, JonasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-AT-JonasNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Michael</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Michael</LocalName>
+  <Locale>de-AT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-AT, Michael)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>de-AT-Michael</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jan</LocalName>
+  <Locale>de-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-CH, JanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-CH-JanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Leni</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Leni</LocalName>
+  <Locale>de-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-CH, LeniNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-CH-LeniNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Karsten</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Karsten</LocalName>
+  <Locale>de-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-CH, Karsten)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>de-CH-Karsten</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Katja</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Katja</LocalName>
+  <Locale>de-DE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-DE, KatjaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-DE-KatjaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Conrad</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Conrad</LocalName>
+  <Locale>de-DE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-DE, ConradNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>de-DE-ConradNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hedda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hedda</LocalName>
+  <Locale>de-DE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-DE, HeddaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>de-DE-HeddaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Stefan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Stefan</LocalName>
+  <Locale>de-DE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (de-DE, Stefan)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>de-DE-Stefan</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Athina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Αθηνά</LocalName>
+  <Locale>el-GR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (el-GR, AthinaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>el-GR-AthinaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Nestoras</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Νέστορας</LocalName>
+  <Locale>el-GR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (el-GR, NestorasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>el-GR-NestorasNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Stefanos</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Στέφανος</LocalName>
+  <Locale>el-GR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (el-GR, Stefanos)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>el-GR-Stefanos</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Natasha</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Natasha</LocalName>
+  <Locale>en-AU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-AU, NatashaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-AU-NatashaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>William</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>William</LocalName>
+  <Locale>en-AU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-AU, WilliamNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-AU-WilliamNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Catherine</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Catherine</LocalName>
+  <Locale>en-AU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-AU, Catherine)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-AU-Catherine</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hayley</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hayley</LocalName>
+  <Locale>en-AU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-AU, HayleyRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-AU-HayleyRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Clara</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Clara</LocalName>
+  <Locale>en-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-CA, ClaraNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-CA-ClaraNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Liam</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Liam</LocalName>
+  <Locale>en-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-CA, LiamNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-CA-LiamNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Heather</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Heather</LocalName>
+  <Locale>en-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-CA, HeatherRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-CA-HeatherRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Linda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Linda</LocalName>
+  <Locale>en-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-CA, Linda)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-CA-Linda</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Mia</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Mia</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, MiaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-GB-MiaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Libby</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Libby</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, LibbyNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-GB-LibbyNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ryan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Ryan</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, RyanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-GB-RyanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>George</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>George</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, George)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-GB-George</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hazel</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hazel</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, HazelRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-GB-HazelRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Susan</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Susan</LocalName>
+  <Locale>en-GB</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-GB, Susan)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-GB-Susan</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Connor</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Connor</LocalName>
+  <Locale>en-IE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IE, ConnorNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-IE-ConnorNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Emily</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Emily</LocalName>
+  <Locale>en-IE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IE, EmilyNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-IE-EmilyNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Sean</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Sean</LocalName>
+  <Locale>en-IE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IE, Sean)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-IE-Sean</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Neerja</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Neerja</LocalName>
+  <Locale>en-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IN, NeerjaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-IN-NeerjaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Prabhat</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Prabhat</LocalName>
+  <Locale>en-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IN, PrabhatNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-IN-PrabhatNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Heera</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Heera</LocalName>
+  <Locale>en-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IN, Heera)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-IN-Heera</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Priya</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Priya</LocalName>
+  <Locale>en-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IN, PriyaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-IN-PriyaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ravi</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Ravi</LocalName>
+  <Locale>en-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-IN, Ravi)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-IN-Ravi</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jenny</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Jenny</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-US-JennyNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>assistant</StyleList>
+  <StyleList>chat</StyleList>
+  <StyleList>customerservice</StyleList>
+  <StyleList>newscast</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Guy</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Guy</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-US-GuyNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>newscast</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Aria</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Aria</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-US-AriaNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>chat</StyleList>
+  <StyleList>customerservice</StyleList>
+  <StyleList>newscast-casual</StyleList>
+  <StyleList>newscast-formal</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>empathetic</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Aria</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Aria</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, AriaRUS)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-US-AriaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Benjamin</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Benjamin</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, BenjaminRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-US-BenjaminRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Guy</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Guy</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, GuyRUS)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>en-US-GuyRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Zira</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Zira</LocalName>
+  <Locale>en-US</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (en-US, ZiraRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>en-US-ZiraRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Alvaro</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Álvaro</LocalName>
+  <Locale>es-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-ES, AlvaroNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>es-ES-AlvaroNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Elvira</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Elvira</LocalName>
+  <Locale>es-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-ES, ElviraNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>es-ES-ElviraNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Helena</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Helena</LocalName>
+  <Locale>es-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-ES, HelenaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>es-ES-HelenaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Laura</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Laura</LocalName>
+  <Locale>es-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-ES, Laura)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>es-ES-Laura</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Pablo</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Pablo</LocalName>
+  <Locale>es-ES</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-ES, Pablo)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>es-ES-Pablo</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Dalia</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Dalia</LocalName>
+  <Locale>es-MX</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-MX, DaliaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>es-MX-DaliaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jorge</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jorge</LocalName>
+  <Locale>es-MX</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-MX, JorgeNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>es-MX-JorgeNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hilda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hilda</LocalName>
+  <Locale>es-MX</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-MX, HildaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>es-MX-HildaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Raul</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Raúl</LocalName>
+  <Locale>es-MX</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (es-MX, Raul)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>es-MX-Raul</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Anu</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Anu</LocalName>
+  <Locale>et-EE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (et-EE, AnuNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>et-EE-AnuNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Kert</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Kert</LocalName>
+  <Locale>et-EE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (et-EE, KertNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>et-EE-KertNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Selma</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Selma</LocalName>
+  <Locale>fi-FI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fi-FI, SelmaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fi-FI-SelmaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Harri</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Harri</LocalName>
+  <Locale>fi-FI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fi-FI, HarriNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fi-FI-HarriNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Noora</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Noora</LocalName>
+  <Locale>fi-FI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fi-FI, NooraNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fi-FI-NooraNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Heidi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Heidi</LocalName>
+  <Locale>fi-FI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fi-FI, HeidiRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fi-FI-HeidiRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Sylvie</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Sylvie</LocalName>
+  <Locale>fr-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CA, SylvieNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-CA-SylvieNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Jean</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Jean</LocalName>
+  <Locale>fr-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CA, JeanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-CA-JeanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Caroline</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Caroline</LocalName>
+  <Locale>fr-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CA, Caroline)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-CA-Caroline</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Harmonie</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Harmonie</LocalName>
+  <Locale>fr-CA</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CA, HarmonieRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-CA-HarmonieRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ariane</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Ariane</LocalName>
+  <Locale>fr-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CH, ArianeNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-CH-ArianeNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Fabrice</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Fabrice</LocalName>
+  <Locale>fr-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CH, FabriceNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-CH-FabriceNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Guillaume</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Guillaume</LocalName>
+  <Locale>fr-CH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-CH, Guillaume)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-CH-Guillaume</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Denise</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Denise</LocalName>
+  <Locale>fr-FR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-FR-DeniseNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Henri</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Henri</LocalName>
+  <Locale>fr-FR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>fr-FR-HenriNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hortense</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hortense</LocalName>
+  <Locale>fr-FR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-FR, HortenseRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-FR-HortenseRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Julie</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Julie</LocalName>
+  <Locale>fr-FR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-FR, Julie)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-FR-Julie</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Paul</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Paul</LocalName>
+  <Locale>fr-FR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (fr-FR, Paul)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>fr-FR-Paul</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Colm</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Colm</LocalName>
+  <Locale>ga-IE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ga-IE, ColmNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ga-IE-ColmNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Orla</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Orla</LocalName>
+  <Locale>ga-IE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ga-IE, OrlaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ga-IE-OrlaNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Avri</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>אברי</LocalName>
+  <Locale>he-IL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (he-IL, AvriNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>he-IL-AvriNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hila</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>הילה</LocalName>
+  <Locale>he-IL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (he-IL, HilaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>he-IL-HilaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Asaf</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>אסף</LocalName>
+  <Locale>he-IL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (he-IL, Asaf)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>he-IL-Asaf</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Madhur</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>मधुर</LocalName>
+  <Locale>hi-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hi-IN, MadhurNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hi-IN-MadhurNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Swara</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>स्वरा</LocalName>
+  <Locale>hi-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hi-IN, SwaraNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hi-IN-SwaraNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hemant</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>हेमन्त</LocalName>
+  <Locale>hi-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hi-IN, Hemant)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>hi-IN-Hemant</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Kalpana</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>कल्पना</LocalName>
+  <Locale>hi-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hi-IN, Kalpana)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>hi-IN-Kalpana</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Gabrijela</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Gabrijela</LocalName>
+  <Locale>hr-HR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hr-HR, GabrijelaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hr-HR-GabrijelaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Srecko</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Srećko</LocalName>
+  <Locale>hr-HR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hr-HR, SreckoNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hr-HR-SreckoNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Matej</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Matej</LocalName>
+  <Locale>hr-HR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hr-HR, Matej)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>hr-HR-Matej</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Noemi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Noémi</LocalName>
+  <Locale>hu-HU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hu-HU, NoemiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hu-HU-NoemiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Tamas</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Tamás</LocalName>
+  <Locale>hu-HU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hu-HU, TamasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>hu-HU-TamasNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Szabolcs</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Szabolcs</LocalName>
+  <Locale>hu-HU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (hu-HU, Szabolcs)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>hu-HU-Szabolcs</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ardi</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Ardi</LocalName>
+  <Locale>id-ID</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (id-ID, ArdiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>id-ID-ArdiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Gadis</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Gadis</LocalName>
+  <Locale>id-ID</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (id-ID, GadisNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>id-ID-GadisNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Andika</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Andika</LocalName>
+  <Locale>id-ID</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (id-ID, Andika)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>id-ID-Andika</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Isabella</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Isabella</LocalName>
+  <Locale>it-IT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (it-IT, IsabellaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>it-IT-IsabellaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Diego</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Diego</LocalName>
+  <Locale>it-IT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (it-IT, DiegoNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>it-IT-DiegoNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Elsa</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Elsa</LocalName>
+  <Locale>it-IT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (it-IT, ElsaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>it-IT-ElsaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Cosimo</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Cosimo</LocalName>
+  <Locale>it-IT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (it-IT, Cosimo)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>it-IT-Cosimo</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Lucia</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Lucia</LocalName>
+  <Locale>it-IT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (it-IT, LuciaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>it-IT-LuciaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Nanami</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>七海</LocalName>
+  <Locale>ja-JP</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ja-JP, NanamiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ja-JP-NanamiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Keita</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>圭太</LocalName>
+  <Locale>ja-JP</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ja-JP, KeitaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ja-JP-KeitaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ayumi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>歩美</LocalName>
+  <Locale>ja-JP</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ja-JP, Ayumi)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ja-JP-Ayumi</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Haruka</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>春香</LocalName>
+  <Locale>ja-JP</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ja-JP, HarukaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ja-JP-HarukaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ichiro</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>一郎</LocalName>
+  <Locale>ja-JP</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ja-JP, Ichiro)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ja-JP-Ichiro</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Sun-Hi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>선히</LocalName>
+  <Locale>ko-KR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ko-KR, SunHiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ko-KR-SunHiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>InJoon</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>인준</LocalName>
+  <Locale>ko-KR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ko-KR, InJoonNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ko-KR-InJoonNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Heami</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>해 미</LocalName>
+  <Locale>ko-KR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ko-KR, HeamiRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ko-KR-HeamiRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Leonas</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Leonas</LocalName>
+  <Locale>lt-LT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (lt-LT, LeonasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>lt-LT-LeonasNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ona</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Ona</LocalName>
+  <Locale>lt-LT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (lt-LT, OnaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>lt-LT-OnaNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Everita</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Everita</LocalName>
+  <Locale>lv-LV</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (lv-LV, EveritaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>lv-LV-EveritaNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Nils</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Nils</LocalName>
+  <Locale>lv-LV</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (lv-LV, NilsNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>lv-LV-NilsNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Osman</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Osman</LocalName>
+  <Locale>ms-MY</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ms-MY, OsmanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ms-MY-OsmanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yasmin</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Yasmin</LocalName>
+  <Locale>ms-MY</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ms-MY, YasminNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ms-MY-YasminNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Rizwan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Rizwan</LocalName>
+  <Locale>ms-MY</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ms-MY, Rizwan)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ms-MY-Rizwan</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Grace</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Grace</LocalName>
+  <Locale>mt-MT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (mt-MT, GraceNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>mt-MT-GraceNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Joseph</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Joseph</LocalName>
+  <Locale>mt-MT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (mt-MT, JosephNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>mt-MT-JosephNeural</ShortName>
+  <Status>Preview</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Pernille</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Pernille</LocalName>
+  <Locale>nb-NO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nb-NO, PernilleNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nb-NO-PernilleNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Finn</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Finn</LocalName>
+  <Locale>nb-NO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nb-NO, FinnNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nb-NO-FinnNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Iselin</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Iselin</LocalName>
+  <Locale>nb-NO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nb-NO, IselinNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nb-NO-IselinNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hulda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hulda</LocalName>
+  <Locale>nb-NO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nb-NO, HuldaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>nb-NO-HuldaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Colette</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Colette</LocalName>
+  <Locale>nl-NL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nl-NL, ColetteNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nl-NL-ColetteNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Fenna</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Fenna</LocalName>
+  <Locale>nl-NL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nl-NL, FennaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nl-NL-FennaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Maarten</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Maarten</LocalName>
+  <Locale>nl-NL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nl-NL, MaartenNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>nl-NL-MaartenNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hanna</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hanna</LocalName>
+  <Locale>nl-NL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (nl-NL, HannaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>nl-NL-HannaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Agnieszka</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Agnieszka</LocalName>
+  <Locale>pl-PL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pl-PL, AgnieszkaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pl-PL-AgnieszkaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Marek</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Marek</LocalName>
+  <Locale>pl-PL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pl-PL, MarekNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pl-PL-MarekNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Zofia</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Zofia</LocalName>
+  <Locale>pl-PL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pl-PL, ZofiaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pl-PL-ZofiaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Paulina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Paulina</LocalName>
+  <Locale>pl-PL</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pl-PL, PaulinaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>pl-PL-PaulinaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Francisca</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Francisca</LocalName>
+  <Locale>pt-BR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pt-BR-FranciscaNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>calm</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Antonio</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Antônio</LocalName>
+  <Locale>pt-BR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-BR, AntonioNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pt-BR-AntonioNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Daniel</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Daniel</LocalName>
+  <Locale>pt-BR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-BR, Daniel)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>pt-BR-Daniel</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Heloisa</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Heloisa</LocalName>
+  <Locale>pt-BR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-BR, HeloisaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>pt-BR-HeloisaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Duarte</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Duarte</LocalName>
+  <Locale>pt-PT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-PT, DuarteNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pt-PT-DuarteNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Fernanda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Fernanda</LocalName>
+  <Locale>pt-PT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-PT, FernandaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pt-PT-FernandaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Raquel</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Raquel</LocalName>
+  <Locale>pt-PT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-PT, RaquelNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>pt-PT-RaquelNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Helia</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hélia</LocalName>
+  <Locale>pt-PT</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (pt-PT, HeliaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>pt-PT-HeliaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Alina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Alina</LocalName>
+  <Locale>ro-RO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ro-RO, AlinaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ro-RO-AlinaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Emil</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Emil</LocalName>
+  <Locale>ro-RO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ro-RO, EmilNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ro-RO-EmilNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Andrei</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Andrei</LocalName>
+  <Locale>ro-RO</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ro-RO, Andrei)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ro-RO-Andrei</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Svetlana</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Светлана</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, SvetlanaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ru-RU-SvetlanaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Dariya</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Дария</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, DariyaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ru-RU-DariyaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Dmitry</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Дмитрий</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, DmitryNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ru-RU-DmitryNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ekaterina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Екатерина</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, EkaterinaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ru-RU-EkaterinaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Irina</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Ирина</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, Irina)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ru-RU-Irina</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Pavel</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Павел</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, Pavel)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ru-RU-Pavel</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Lukas</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Lukáš</LocalName>
+  <Locale>sk-SK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sk-SK, LukasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sk-SK-LukasNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Viktoria</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Viktória</LocalName>
+  <Locale>sk-SK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sk-SK, ViktoriaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sk-SK-ViktoriaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Filip</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Filip</LocalName>
+  <Locale>sk-SK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sk-SK, Filip)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>sk-SK-Filip</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Petra</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Petra</LocalName>
+  <Locale>sl-SI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sl-SI, PetraNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sl-SI-PetraNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Rok</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Rok</LocalName>
+  <Locale>sl-SI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sl-SI, RokNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sl-SI-RokNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Lado</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Lado</LocalName>
+  <Locale>sl-SI</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sl-SI, Lado)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>sl-SI-Lado</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Sofie</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Sofie</LocalName>
+  <Locale>sv-SE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sv-SE, SofieNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sv-SE-SofieNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hillevi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hillevi</LocalName>
+  <Locale>sv-SE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sv-SE, HilleviNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sv-SE-HilleviNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Mattias</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Mattias</LocalName>
+  <Locale>sv-SE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sv-SE, MattiasNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>sv-SE-MattiasNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Hedvig</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hedvig</LocalName>
+  <Locale>sv-SE</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (sv-SE, HedvigRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>sv-SE-HedvigRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Pallavi</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>பல்லவி</LocalName>
+  <Locale>ta-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ta-IN, PallaviNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ta-IN-PallaviNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Valluvar</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>வள்ளுவர்</LocalName>
+  <Locale>ta-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ta-IN, ValluvarNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ta-IN-ValluvarNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Valluvar</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>வள்ளுவர்</LocalName>
+  <Locale>ta-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ta-IN, Valluvar)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>ta-IN-Valluvar</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Mohan</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>మోహన్</LocalName>
+  <Locale>te-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (te-IN, MohanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>te-IN-MohanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Shruti</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>శ్రుతి</LocalName>
+  <Locale>te-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (te-IN, ShrutiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>te-IN-ShrutiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Chitra</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>చిత్ర</LocalName>
+  <Locale>te-IN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (te-IN, Chitra)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>te-IN-Chitra</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Premwadee</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>เปรมวดี</LocalName>
+  <Locale>th-TH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (th-TH, PremwadeeNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>th-TH-PremwadeeNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Achara</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>อัจฉรา</LocalName>
+  <Locale>th-TH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (th-TH, AcharaNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>th-TH-AcharaNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Niwat</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>นิวัฒน์</LocalName>
+  <Locale>th-TH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (th-TH, NiwatNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>th-TH-NiwatNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Pattara</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>ภัทรา</LocalName>
+  <Locale>th-TH</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (th-TH, Pattara)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>th-TH-Pattara</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Ahmet</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Ahmet</LocalName>
+  <Locale>tr-TR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (tr-TR, AhmetNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>tr-TR-AhmetNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Emel</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Emel</LocalName>
+  <Locale>tr-TR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (tr-TR, EmelNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>tr-TR-EmelNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Seda</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Seda</LocalName>
+  <Locale>tr-TR</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (tr-TR, SedaRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>tr-TR-SedaRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HoaiMy</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Hoài My</LocalName>
+  <Locale>vi-VN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (vi-VN, HoaiMyNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>vi-VN-HoaiMyNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>NamMinh</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Nam Minh</LocalName>
+  <Locale>vi-VN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (vi-VN, NamMinhNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>vi-VN-NamMinhNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>An</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>An</LocalName>
+  <Locale>vi-VN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (vi-VN, An)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>vi-VN-An</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaoxiao</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓晓</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaoxiaoNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>assistant</StyleList>
+  <StyleList>chat</StyleList>
+  <StyleList>customerservice</StyleList>
+  <StyleList>newscast</StyleList>
+  <StyleList>affectionate</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>calm</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>gentle</StyleList>
+  <StyleList>lyrical</StyleList>
+  <StyleList>sad</StyleList>
+  <StyleList>serious</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yunyang</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>云扬</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, YunyangNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-YunyangNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>customerservice</StyleList>
+  <StyleList>narration</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaoyou</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓悠</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoyouNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaoyouNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yunye</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>云野</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, YunyeNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-YunyeNeural</ShortName>
+  <Status>GA</Status>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>serious</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>sad</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaohan</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓涵</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaohanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaohanNeural</ShortName>
+  <Status>Preview</Status>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>serious</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>sad</StyleList>
+  <StyleList>gentle</StyleList>
+  <StyleList>affectionate</StyleList>
+  <StyleList>embarrassed</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaomo</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓墨</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaomoNeural)</Name>
+  <RolePlayList>YoungAdultFemale</RolePlayList>
+  <RolePlayList>YoungAdultMale</RolePlayList>
+  <RolePlayList>OlderAdultFemale</RolePlayList>
+  <RolePlayList>OlderAdultMale</RolePlayList>
+  <RolePlayList>SeniorFemale</RolePlayList>
+  <RolePlayList>SeniorMale</RolePlayList>
+  <RolePlayList>Girl</RolePlayList>
+  <RolePlayList>Boy</RolePlayList>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaomoNeural</ShortName>
+  <Status>Preview</Status>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>serious</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>gentle</StyleList>
+  <StyleList>depressed</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaorui</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓睿</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoruiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaoruiNeural</ShortName>
+  <Status>Preview</Status>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>sad</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Xiaoxuan</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>晓萱</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxuanNeural)</Name>
+  <RolePlayList>YoungAdultFemale</RolePlayList>
+  <RolePlayList>YoungAdultMale</RolePlayList>
+  <RolePlayList>OlderAdultFemale</RolePlayList>
+  <RolePlayList>OlderAdultMale</RolePlayList>
+  <RolePlayList>SeniorFemale</RolePlayList>
+  <RolePlayList>SeniorMale</RolePlayList>
+  <RolePlayList>Girl</RolePlayList>
+  <RolePlayList>Boy</RolePlayList>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-XiaoxuanNeural</ShortName>
+  <Status>Preview</Status>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>serious</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>gentle</StyleList>
+  <StyleList>depressed</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yunxi</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>云希</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-CN-YunxiNeural</ShortName>
+  <Status>Preview</Status>
+  <StyleList>assistant</StyleList>
+  <StyleList>calm</StyleList>
+  <StyleList>fearful</StyleList>
+  <StyleList>cheerful</StyleList>
+  <StyleList>disgruntled</StyleList>
+  <StyleList>serious</StyleList>
+  <StyleList>angry</StyleList>
+  <StyleList>sad</StyleList>
+  <StyleList>depressed</StyleList>
+  <StyleList>embarrassed</StyleList>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Huihui</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>慧慧</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, HuihuiRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-CN-HuihuiRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Kangkang</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>康康</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, Kangkang)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-CN-Kangkang</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yaoyao</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>瑶瑶</LocalName>
+  <Locale>zh-CN</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-CN, Yaoyao)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-CN-Yaoyao</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HiuMaan</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>曉曼</LocalName>
+  <Locale>zh-HK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-HK, HiuMaanNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-HK-HiuMaanNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HiuGaai</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>曉佳</LocalName>
+  <Locale>zh-HK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-HK, HiuGaaiNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-HK-HiuGaaiNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>WanLung</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>雲龍</LocalName>
+  <Locale>zh-HK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-HK, WanLungNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-HK-WanLungNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Danny</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Danny</LocalName>
+  <Locale>zh-HK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-HK, Danny)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-HK-Danny</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Tracy</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>Tracy</LocalName>
+  <Locale>zh-HK</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-HK, TracyRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-HK-TracyRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HsiaoChen</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>曉臻</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoChenNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-TW-HsiaoChenNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HsiaoYu</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>曉雨</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, HsiaoYuNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-TW-HsiaoYuNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>YunJhe</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>雲哲</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, YunJheNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>zh-TW-YunJheNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>HanHan</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>涵涵</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, HanHanRUS)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-TW-HanHanRUS</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Yating</DisplayName>
+  <Gender>Female</Gender>
+  <LocalName>雅婷</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, Yating)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-TW-Yating</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>
+<Speaker>
+  <DisplayName>Zhiwei</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>志威</LocalName>
+  <Locale>zh-TW</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (zh-TW, Zhiwei)</Name>
+  <SampleRateHertz>16000</SampleRateHertz>
+  <ShortName>zh-TW-Zhiwei</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Standard</VoiceType>
+</Speaker>

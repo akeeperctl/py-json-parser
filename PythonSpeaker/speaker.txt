@@ -1,0 +1,11 @@
+<Speaker>
+  <DisplayName>Dmitry</DisplayName>
+  <Gender>Male</Gender>
+  <LocalName>Дмитрий</LocalName>
+  <Locale>ru-RU</Locale>
+  <Name>Microsoft Server Speech Text to Speech Voice (ru-RU, DmitryNeural)</Name>
+  <SampleRateHertz>24000</SampleRateHertz>
+  <ShortName>ru-RU-DmitryNeural</ShortName>
+  <Status>GA</Status>
+  <VoiceType>Neural</VoiceType>
+</Speaker>
